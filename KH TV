@@ -1,36 +1,354 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dMHqF1V/PNN.png" group-title="កម្ពុជា|Cambodia",PNN
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?564bad76-a347-4c2c-91a2-686fac320913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2tBzYws/Town.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Town TV
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nzYvDZ6/CTN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTN
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yRYK0nJ/MYTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|MYTV
- 
-#EXTINF:-1 tvg-logo="http://tny.im/oM4" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ហង្សមាស
-http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
+http://203.176.130.123:8989/live/pnn_480k.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2tBzYws/Town.png" group-title="កម្ពុជា|Cambodia",Town TV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nzYvDZ6/CTN.png" group-title="កម្ពុជា|Cambodia",CTN
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yRYK0nJ/MYTV.png" group-title="កម្ពុជា|Cambodia",MYTV
+
+
+#EXTINF:-1 tvg-logo="http://cnc.com.kh/img/logo.jpg" group-title="កម្ពុជា|Cambodia",CNC
+
+
+
+#EXTINF:-1 tvg-logo="http://tny.im/oM4" group-title="កម្ពុជា|Cambodia",ហង្សមាស
+http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nsf7hpH/RHM.png" group-title="កម្ពុជា|Cambodia",រស្មីហង្សមាស
-http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
+http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9xrS4Z/Bayon.png" group-title="កម្ពុជា|Cambodia",បាយ័ន
-https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w1767351319.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",BTV
-https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m4FzpD9/SEA.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|SeaTV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1674879746&mtvhash=xYP4xM2Ko6B4B6vpMsq2eE0dKLJEqIkFuo0PuQs-E7w=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.malimarcdn.com/kh/CTV8HDF.jpg" group-title="កម្ពុជា|Cambodia",CTV8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dypdvfcjkqkg2.cloudfront.net/large/4497855-4451.png" group-title="កម្ពុជា|Cambodia",Netlink TV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmhhcHB5c29mdC5mcmVzaG5ld3NfaWNvbl8xNTU0ODc2NzUzXzAwNQ/icon.png?w=&fakeurl=1" group-title="កម្ពុជា|Cambodia",Fresh News
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w1155520132_b1496608.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m4FzpD9/SEA.png" group-title="កម្ពុជា|Cambodia",SeaTV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+
+
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png", TV9 HD
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="កម្ពុជា|Cambodia",D-Music
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
- 
+#https://epg.pw/stream/1d7d89f7e053c8038b97c73c56e9a0c223519b05e6e1fa4476834578f9acd368.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",TVK
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m9TkJ4G/TV5.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV5
- 
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vHnDdKn/TV9.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV9
- 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
- 
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.malimarcdn.com/kh/MSTJTVHDF.jpg" group-title="កម្ពុជា|Cambodia",MSJTV
+http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="thairath.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath 
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 1
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 2
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 3
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 4
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 5
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 66
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 6
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 7
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 8
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 9
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 10
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 12
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 13
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 14
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 15
+https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 16
+https://1123139281.cdn.khmer-hd.com/vitHD/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 17
+https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 14
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 15
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 16
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 17
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 18
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 19
+
+
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE MATCH", 20
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Rock Action
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",BOX MOVIE
+https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",HOLLYWOOD CLASSIC
+https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Latus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",PERSIANA CINEMA
+http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Hi-YAH!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Dark Matter TV Movies
+https://dmtv-plex.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 01
+https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8?ads.wurl_channel=606&ads.wurl_name=SuperToonsTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 02
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 03
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 04
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 05
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 06
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1xyUjk+93L.jpg" group-title="MUSIC", KPOP
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+
+#EXTINF:-1 group-title="MUSIC",THT Music HD
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="MUSIC",1MUS
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
+
