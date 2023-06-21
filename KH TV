@@ -186,32 +186,38 @@ http://203.80.165.14:9981/stream/channelid/1008476380?profile=pass
 http://203.80.165.14:9981/stream/channelid/656608308?profile=pass
 #EXTINF:-1 tvg-id="37cb5073eb8617f1d51123f760596575" tvg-name="WWE" tvg-logo="http://203.80.165.14:9981/imagecache/71" group-title="Sport TV",WWE
 http://203.80.165.14:9981/stream/channelid/1934674743?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="" group-title="Thai TV",ETV
-http://iptv365.xyz:900/5300690644/2656525529/377487
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOOD IDEA TV" tvg-logo="" group-title="Thai TV",GOOD IDEA TV
-http://iptv365.xyz/5300690644/2656525529/34501
-#EXTINF:-1 tvg-id="9e8de4924927e9849518aefeb119da9e" tvg-name="LAO PSTV" tvg-logo="http://203.80.165.14:9981/imagecache/119" group-title="Thai TV",LAO PSTV
-http://203.80.165.14:9981/stream/channelid/316968350?profile=pass
-#EXTINF:-1 tvg-id="07fe67cf3de0822a09a6d6b8858c92ba" tvg-name="MTV LIVE" tvg-logo="http://203.80.165.14:9981/imagecache/146" group-title="Thai TV",MTV LIVE
-http://203.80.165.14:9981/stream/channelid/1332215303?profile=pass
-#EXTINF:-1 tvg-id="8b7a2abf3bd986b3d84979fcf116c115" tvg-name="NBT THAI" tvg-logo="http://203.80.165.14:9981/imagecache/123" group-title="Thai TV",NBT THAI
-http://203.80.165.14:9981/stream/channelid/1059748491?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRWISION" tvg-logo="" group-title="Thai TV",NRWISION
-http://iptv365.xyz/5300690644/2656525529/34504
-#EXTINF:-1 tvg-id="772cee1e98dc213d09f51791df517179" tvg-name="THAI 3" tvg-logo="http://203.80.165.14:9981/imagecache/58" group-title="Thai TV",THAI 3
-http://203.80.165.14:9981/stream/channelid/518925431?profile=pass
-#EXTINF:-1 tvg-id="9cf6266545cbf8af74ff06b32a92be04" tvg-name="THAI 5" tvg-logo="http://203.80.165.14:9981/imagecache/59" group-title="Thai TV",THAI 5
-http://203.80.165.14:9981/stream/channelid/1697052316?profile=pass
-#EXTINF:-1 tvg-id="312033212513db325e6fd0df7cec740a" tvg-name="THAI DRAMA" tvg-logo="http://203.80.165.14:9981/imagecache/135" group-title="Thai TV",THAI DRAMA
-http://203.80.165.14:9981/stream/channelid/556998705?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAI PBS" tvg-logo="" group-title="Thai TV",THAI PBS
-http://iptv365.xyz:900/5300690644/2656525529/377455
-#EXTINF:-1 tvg-id="0d495735a87feedafc817427003fd02c" tvg-name="THAI7" tvg-logo="http://203.80.165.14:9981/imagecache/60" group-title="Thai TV",THAI7
-http://203.80.165.14:9981/stream/channelid/894912781?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAIRATH" tvg-logo="" group-title="Thai TV",THAIRATH
-http://iptv365.xyz:900/5300690644/2656525529/377467
-#EXTINF:-1 tvg-id="97d344935b6519afcf255ddc8c7332dc" tvg-name="WORK POINT" tvg-logo="http://203.80.165.14:9981/imagecache/43" group-title="Thai TV",WORK POINT
-http://203.80.165.14:9981/stream/channelid/323277719?profile=pass
+
+#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="32" tvg-id="thairath.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath 
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3bb10b305f85e29338658d56a2be3bc5" tvg-name="ANHUI TV" tvg-logo="http://203.80.165.14:9981/imagecache/3" group-title="China TV",ANHUI TV
 http://203.80.165.14:9981/stream/channelid/806072635?profile=pass
 #EXTINF:-1 tvg-id="dd70ba95aa6b6b623aac7b6c8bcf6841" tvg-name="BEIJING TV" tvg-logo="http://203.80.165.14:9981/imagecache/8" group-title="China TV",BEIJING TV
