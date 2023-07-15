@@ -339,7 +339,7 @@ http://iptv365.xyz:900/5300690644/2656525529/20368
 #EXTINF:-1 tvg-id="ff16960a167a672e45024f28ae324a44" tvg-name="VTV 1" tvg-logo="http://203.80.165.14:9981/imagecache/69" group-title="Vietnam TV",VTV 1
 http://203.80.165.14:9981/stream/channelid/177608447?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV 2" tvg-logo="" group-title="Vietnam TV",VTV 2
-http://iptv365.xyz:900/5300690644/2656525529/20449
+http://stream.cvmtv.site/vtv1?token=live
 #EXTINF:-1 tvg-id="6c0913e619d2b5f3a2ea96a06746ca80" tvg-name="VTV 9" tvg-logo="http://203.80.165.14:9981/imagecache/70" group-title="Vietnam TV",VTV 9
 http://203.80.165.14:9981/stream/channelid/1712523628?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV3" tvg-logo="" group-title="Vietnam TV",VTV3
