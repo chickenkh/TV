@@ -175,8 +175,7 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Other TV",CRIME INVESTIGATION
-http://iptv365.xyz/5300690644/2656525529/29616
+
 #EXTINF:-1 tvg-id="c8c9242b55b5162581ba5c0f7b696620" tvg-name="ANIMAL PLANET" tvg-logo="http://203.80.165.14:9981/imagecache/83" group-title="Other TV",ANIMAL PLANET
 http://203.80.165.14:9981/stream/channelid/723831240?profile=pass
 #EXTINF:-1 tvg-id="656501311aa3953457a4f982c24d0eb3" tvg-name="AUSTRALIA PLUS" tvg-logo="http://203.80.165.14:9981/imagecache/6" group-title="Other TV",AUSTRALIA PLUS
