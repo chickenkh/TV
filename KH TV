@@ -10,6 +10,8 @@ http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w588652
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="Khmer TV",BTV
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="CSTV" tvg-logo="https://cambodia2023.tv/wp-content/uploads/2023/06/cstv01-logo.png" group-title="Khmer TV",CSTV
+https://live.kh.unitysystem.net/live/CSTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="Khmer TV",CTN
 
 #EXTINF:-1 tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" tvg-name="MYTV" tvg-logo="http://cambodia.mom-gmr.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="Khmer TV",MYTV
@@ -21,7 +23,7 @@ https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="38305408b63df677bdd0566ade4e9999" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Apsara_TV11_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212084116" group-title="Khmer TV",APSARA
 https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="Khmer TV",MSJTV
-https://live.kh.unitysystem.net/live/CSTV.stream/chunklist.m3u8
+http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="1fede0449ebf7cb621327ce8936a907a" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="Khmer TV",SEATV
 https://live.kh.malimarcdn.com/live/seatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="902976b999a9acc3403fda7d1f66991a" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="Khmer TV",TV3
