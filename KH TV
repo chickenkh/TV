@@ -1,14 +1,14 @@
 #EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="Khmer TV",AKCTV 26 Drama
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="http://203.80.165.14/imagecache/81" group-title="Khmer TV",AKCTV25
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="Khmer TV",AKCTV25
 http://203.80.165.14/stream/channelid/1721237608?profile=pass
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="http://203.80.165.14/imagecache/2" group-title="Khmer TV",AKCTV_21
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="Khmer TV",AKCTV_21
 http://203.80.165.14/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="http://203.80.165.14/imagecache/1" group-title="Khmer TV",AKCTV_23
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="Khmer TV",AKCTV_23
 http://203.80.165.14/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="http://203.80.165.14/imagecache/72" group-title="Khmer TV",PPCTV1
+#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="http://203.80.165.14/imagecache/72" group-title="Khmer TV",PPCTV10
 http://203.80.165.14/stream/channelid/909385263?profile=pass
-#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="http://203.80.165.14/imagecache/77" group-title="Khmer TV",PPCTV_6
+#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="http://203.80.165.14/imagecache/77" group-title="Khmer TV",PPCTV6
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="Khmer TV",PNN
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
@@ -22,7 +22,7 @@ http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w588652
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="Khmer TV",BTV
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="CSTV" tvg-logo="https://cambodia2023.tv/wp-content/uploads/2023/06/cstv01-logo.png" group-title="Khmer TV",CSTV
+#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="CSTV" tvg-logo="https://shorturl.at/pEN09" group-title="Khmer TV",CSTV
 https://live.kh.unitysystem.net/live/CSTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="Khmer TV",CTN
 http://203.80.165.14/stream/channelid/536374439?profile=pass
