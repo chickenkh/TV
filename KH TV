@@ -1,28 +1,15 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 DRAMA" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 26 DRAMA
-http://203.80.165.14:9981/stream/channelid/1601899558?profile=pass
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV 25" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 25
-http://203.80.165.14:9981/stream/channelid/1721237608?profile=pass
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV 21" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 21
-http://203.80.165.14:9981/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV 23" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 23
-http://203.80.165.14:9981/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV 1" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="Khmer TV",PPCTV 1
-http://203.80.165.14:9981/stream/channelid/909385263?profile=pass
-#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV 6" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="Khmer TV",PPCTV 6
-http://203.80.165.14:9981/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="Khmer TV",PNN
-http://203.80.165.14:9981/stream/channelid/41447817?profile=pass
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="Khmer TV",TOWN TV
-http://203.80.165.14:9981/stream/channelid/558436782?profile=pass
+https://live.kh.malimarcdn.com/khliveedge00/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",HANGMEAS
 http://203.80.165.14:9981/stream/channelid/1448884111?profile=pass
 #EXTINF:-1 tvg-id="63e69bb524e3b3a68d462066e092ddaa" tvg-name="RHM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",RHM
 http://203.80.165.14:9981/stream/channelid/899409507?profile=pass
 #EXTINF:-1 tvg-id="d6fd577317dd23cc3e834491beebf63e" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="Khmer TV",BAYON
-http://203.80.165.14:9981/stream/channelid/1935146454?profile=pass
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="Khmer TV",BTV
-http://203.80.165.14:9981/stream/channelid/391283113?profile=pass
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="Khmer TV",CTN
 http://203.80.165.14:9981/stream/channelid/536374439?profile=pass
 #EXTINF:-1 tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" tvg-name="MYTV" tvg-logo="http://cambodia.mom-gmr.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="Khmer TV",MYTV
@@ -32,17 +19,17 @@ http://203.80.165.14:9981/stream/channelid/966549443?profile=pass
 #EXTINF:-1 tvg-id="e926404a648d409acc36d475505f9f0e" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058" group-title="Khmer TV",CTV8
 http://203.80.165.14:9981/stream/channelid/1245718249?profile=pass
 #EXTINF:-1 tvg-id="38305408b63df677bdd0566ade4e9999" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Apsara_TV11_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212084116" group-title="Khmer TV",APSARA
-http://203.80.165.14:9981/stream/channelid/139735096?profile=pass
+https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="Khmer TV",MSJTV
-http://203.80.165.14:9981/stream/channelid/1582855399?profile=pass
+https://live.kh.unitysystem.net/live/CSTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="1fede0449ebf7cb621327ce8936a907a" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="Khmer TV",SEATV
 http://203.80.165.14:9981/stream/channelid/1155591455?profile=pass
 #EXTINF:-1 tvg-id="902976b999a9acc3403fda7d1f66991a" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="Khmer TV",TV3
 http://203.80.165.14:9981/stream/channelid/964045200?profile=pass
 #EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="Khmer TV",TV5
-http://203.80.165.14:9981/stream/channelid/1998895537?profile=pass
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="Khmer TV",TV9
-http://203.80.165.14:9981/stream/channelid/1883580941?profile=pass
+https://live.kh.malimarcdn.com/khliveedge00/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="99add45d5b0a8bef1a465f18625db321" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="Khmer TV",TVK
 http://203.80.165.14:9981/stream/channelid/1574219161?profile=pass
 #EXTINF:-1 tvg-id="0ac95f89237c60f738b5a5c90f2afac0" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="Khmer TV",TVK2
