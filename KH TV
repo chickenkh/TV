@@ -15,9 +15,11 @@ https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="Khmer TV",TOWN TV
 https://live.kh.malimarcdn.com/khliveedge00/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",HANGMEAS
-http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
+http://203.80.165.14/stream/channelid/1448884111?profile=pass
+#http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="63e69bb524e3b3a68d462066e092ddaa" tvg-name="RHM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",RHM
-http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
+http://203.80.165.14/stream/channelid/899409507?profile=pass
+#http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="d6fd577317dd23cc3e834491beebf63e" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="Khmer TV",BAYON
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="Khmer TV",BTV
@@ -66,29 +68,20 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w19
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
 http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7
 http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="32" tvg-id="thairath.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath 
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD
 http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
 
- 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
  
