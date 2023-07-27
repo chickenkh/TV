@@ -106,6 +106,21 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 
+
+#EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="https://shorturl.at/stE35" group-title="KIDS",Cartoon Network
+http://203.80.165.14/stream/channelid/457761692?profile=pass
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="LIVE MATCH" group-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv-round.png",VEBOtv 1
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 group-title="LIVE MATCH" group-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv-round.png",VEBOtv 2
