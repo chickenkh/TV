@@ -107,10 +107,10 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 
 
-#EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="https://shorturl.at/stE35" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="https://shorturl.at/stE35" group-title="CARTOON",Cartoon Network
 http://203.80.165.14/stream/channelid/457761692?profile=pass
-
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 01
+https://shorturl.at/ghmoW
 
 
 
