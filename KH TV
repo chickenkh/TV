@@ -107,10 +107,20 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 
 
-#EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="https://shorturl.at/stE35" group-title="CARTOON",Cartoon Network
-http://203.80.165.14/stream/channelid/457761692?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 01
-https://shorturl.at/ghmoW
+https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8?ads.wurl_channel=606&ads.wurl_name=SuperToonsTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 02
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 03
+http://203.80.165.14/stream/channelid/457761692?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 04
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 05
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 06
+
 
 
 
