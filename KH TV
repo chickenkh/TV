@@ -84,9 +84,25 @@ http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 1
+http://ip2121.com:8081/live/eng1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 2
+http://ip2121.com:8081/live/eng2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 3
+http://ip2121.com:8081/live/eng3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 4
+http://ip2121.com:8081/live/eng4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 5
+http://ip2121.com:8081/live/eng5/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
 https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
