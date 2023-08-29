@@ -100,8 +100,23 @@ http://ip2121.com:8081/live/eng4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 5
 http://ip2121.com:8081/live/eng5/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 1 Mongolia
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 2 Mongolia
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 3 Mongolia
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 4 Mongolia
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 5 Mongolia
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 1
+https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/e1650cf3-a3a9-495c-b2de-9a334cf83339/1080p/media.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 2
+https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/157a1839-38d5-478c-a805-9bb49052941f/1080p/media.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 3
+https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/8e98d42b-36d9-40d8-953c-aaa70482c177/1080p/media.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
@@ -138,7 +153,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 06
 
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/fnKSW" group-title="SPORT", TNT
+
 
 
 
