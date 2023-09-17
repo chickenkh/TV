@@ -65,7 +65,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w19
 
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
-https://wtv.akctv.com.kh:10443/hls/ch023/index.m3u8?userid=12717&token=cea4fc4c4e22422b1c8250a2457ff58a
+
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
@@ -89,53 +89,8 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 1
-http://ip2121.com:8081/live/eng1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 2
-http://ip2121.com:8081/live/eng2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 3
-http://ip2121.com:8081/live/eng3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 4
-http://ip2121.com:8081/live/eng4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/hsB78" group-title="កីឡា", True Premier 5
-http://ip2121.com:8081/live/eng5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 1 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 2 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 3 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 4 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/yBFG9" group-title="កីឡា", Premier Sports 5 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 1
-https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/e1650cf3-a3a9-495c-b2de-9a334cf83339/1080p/media.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 2
-https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/157a1839-38d5-478c-a805-9bb49052941f/1080p/media.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/alCMX" group-title="កីឡា", ФУТБОЛ 3
-https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/8e98d42b-36d9-40d8-953c-aaa70482c177/1080p/media.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
-https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
-https://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3      
-https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4       
-
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
-https://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV6
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
-
-#EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
-
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
 
 
 
