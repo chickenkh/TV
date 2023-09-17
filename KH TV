@@ -65,7 +65,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w19
 
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
-http://61.19.242.134/feed/202306140918/chtsport/index.m3u8
+https://wtv.akctv.com.kh:10443/hls/ch023/index.m3u8?userid=12717&token=cea4fc4c4e22422b1c8250a2457ff58a
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
