@@ -45,7 +45,8 @@ http://203.80.165.14/stream/channelid/964045200?profile=pass
 #EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="Khmer TV",TV5
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="Khmer TV",TV9
-https://live.kh.malimarcdn.com/khliveedge00/tv9.stream/chunklist.m3u8
+http://203.80.165.14/stream/channelid/1883580941?profile=pass
+#https://live.kh.malimarcdn.com/khliveedge00/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="99add45d5b0a8bef1a465f18625db321" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="Khmer TV",TVK
 https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0ac95f89237c60f738b5a5c90f2afac0" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="Khmer TV",TVK2
