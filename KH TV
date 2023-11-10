@@ -113,7 +113,10 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-
+#EXTINF:0 tvg-id="ksport1hd" group-title="SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
+http://m3u.at/Mytvk-sport1-hd
+#EXTINF:0 tvg-id="ksport2hd" group-title="SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
+http://m3u.at/mytvk-sport2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
