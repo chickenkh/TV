@@ -235,3 +235,32 @@ https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 12 (Soi)
 https://obevcimanyd179314182.thapcam.link/live/soiSD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 2
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 3
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 4
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 5
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 7
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 9
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 10
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 11
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 12
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 13
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 14
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kfncGw/images.jpg" group-title="Sports",SPORTS 15
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+
