@@ -83,7 +83,7 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
-
+http://ingest2.astro3.rastream.com/astro-goxuan-kpop
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
