@@ -83,13 +83,13 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
-
+https://ctrl.laotv.la/live/NBT/index.m3u8
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
+https://ctrl.laotv.la/live/TSports7/index.m3u8
 
 
 
@@ -156,6 +156,49 @@ https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
 #EXTINF:-1 group-title="LIVE MATCH" group-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv-round.png",VEBOtv 11
 https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 5
+https://s.id/SuperSportFUBOL
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 6
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
+http://b4tv.live/b4tv/b4tv/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+http://b4tv.live/b4tv/b4tv/84.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4boxplus.png", B4BOX PLUS
+http://b4tv.live/b4tv/b4tv/120.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
+http://b4tv.live/b4tv/b4tv/85.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/logotubevent.png", B4TUBEVENT 1
+http://b4tv.live/b4tv/b4tv/55.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/logotubevent.png", B4TUBEVENT 2
+http://b4tv.live/b4tv/b4tv/56.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
+http://b4tv.live/b4tv/b4tv/86.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
+http://b4tv.live/b4tv/b4tv/76.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 1
+http://b4tv.live/b4tv/b4tv/19.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 2
+http://b4tv.live/b4tv/b4tv/20.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 3
+http://b4tv.live/b4tv/b4tv/21.m3u8
 
 
 
