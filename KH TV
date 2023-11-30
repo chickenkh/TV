@@ -116,8 +116,12 @@ http://203.80.165.14/stream/channelid/457761692?profile=pass
 
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="NEWS" tvg-logo="https://tinyurl.com/ymkee3nd", Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://shorturl.at/vzHL0", Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
