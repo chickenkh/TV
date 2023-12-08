@@ -12,6 +12,7 @@ http://203.80.165.14/stream/channelid/909385263?profile=pass
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="Khmer TV",PNN
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+#http://203.80.165.14/stream/channelid/41447817?profile=pass
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="Khmer TV",TOWN TV
 http://203.80.165.14/stream/channelid/558436782?profile=pass
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",HANGMEAS
@@ -24,6 +25,7 @@ http://203.80.165.14/stream/channelid/899409507?profile=pass
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="Khmer TV",BTV
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+#http://203.80.165.14/stream/channelid/391283113?profile=pass
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="CSTV" tvg-logo="https://shorturl.at/pEN09" group-title="Khmer TV",CSTV
 
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="Khmer TV",CTN
@@ -53,7 +55,7 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0ac95f89237c60f738b5a5c90f2afac0" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="Khmer TV",TVK2
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png?20170310160903" group-title="Khmer TV",FRESH NEWS
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+http://203.80.165.14/stream/channelid/86226499?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://yt3.googleusercontent.com/dSLy3O7Xn-qVae4fsBT3ghu--CJ97bZiCZcUkSeJxEvmYxlymxk5QVxfEG4ypwyZsjZqgSGZP9o=s900-c-k-c0x00ffffff-no-rj" group-title="Khmer TV",NETLINK TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KhmerTV_logo.jpg/1200px-KhmerTV_logo.jpg?20230114211006" group-title="Khmer TV",KHMER TV
@@ -89,6 +91,41 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super_Movies" tvg-logo="http://203.80.165.14/imagecache/134" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Super_Movies
+http://203.80.165.14/stream/channelid/2132911309?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 1" tvg-logo="http://203.80.165.14/imagecache/100" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",True Film 1
+http://203.80.165.14/stream/channelid/795768875?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 2" tvg-logo="http://203.80.165.14/imagecache/105" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",True Film 2
+http://203.80.165.14/stream/channelid/808364561?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",AXN VN Sub
+http://vthanhtivi.pw:5000/axn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Singapore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",AXN Singapore HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HBO Family
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HBO Family HD
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HBO Signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO VN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HBO VN Sub
+http://cdnlive.vthanhtivi.pw/hbo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO CN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HBO CN Sub
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax VN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Cinemax VN Sub
+http://cdnlive.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Lotus Macau
+http://live.cooltv.top/tv/lotus.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Star Movies
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67262.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies CN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Star Movies CN Sub
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Selected" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",Star Movies Selected
+http://iptvtree.net:8080/smoothiptv/0abe5433dc/267542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HITS
+http://exm3u.123tv.to:8080/TomasArana_nw/HFNHGFhfd7r4hnrf43/62239
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត |Hollywood Movies Channel|",HITS MOVIE
+http://exm3u.123tv.to:8080/TomasArana_nw/HFNHGFhfd7r4hnrf43/62238
 
 
 
