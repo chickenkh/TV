@@ -66,8 +66,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w1953578554.m3u8
 
 
-#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
-
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
@@ -90,13 +88,6 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES", CINEMAX
-https://ctrl.laotv.la/live/Cinemax/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIES", HBO
-https://ctrl.laotv.la/live/HBO/index.m3u8
 
 
 
@@ -166,15 +157,6 @@ https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
 #EXTINF:-1 group-title="LIVE MATCH" group-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv-round.png",VEBOtv 11
 https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 
