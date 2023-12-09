@@ -95,15 +95,10 @@ https://ctrl.laotv.la/live/TSports7/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super_Movies" tvg-logo="https://shorturl.at/gptx0" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",Super_Movies
 http://203.80.165.14/stream/channelid/2132911309?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 1" tvg-logo="https://shorturl.at/eCINP" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",True Film 1
-http://203.80.165.14/stream/channelid/795768875?profile=pass
+https://ctrl.laotv.la/live/TureFilm/index.m3u8
+#http://203.80.165.14/stream/channelid/795768875?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 2" tvg-logo="https://shorturl.at/eCINP" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",True Film 2
 http://203.80.165.14/stream/channelid/808364561?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",AXN VN Sub
-http://vthanhtivi.pw:5000/axn/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Singapore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",AXN Singapore HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",Star Movies
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67262.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies CN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="ប៉ុស្តិ៍រឿងហូលីវ៉ូត",Star Movies CN Sub
 https://ctrl.laotv.la/live/StarMovie/index.m3u8
 
@@ -115,9 +110,7 @@ https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 03
 http://203.80.165.14/stream/channelid/457761692?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 04
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 05
 
 
 
@@ -144,10 +137,15 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
+
+#EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
 
 
 
