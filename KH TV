@@ -11,8 +11,8 @@ http://203.80.165.14/stream/channelid/909385263?profile=pass
 #EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://shorturl.at/bqSW4" group-title="Khmer TV",PPCTV1
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="Khmer TV",PNN
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/41447817?profile=pass
+http://203.80.165.14/stream/channelid/41447817?profile=pass
+#https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="Khmer TV",TOWN TV
 http://203.80.165.14/stream/channelid/558436782?profile=pass
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",HANGMEAS
@@ -129,6 +129,10 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Sour
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/bmIVW", Bein Sports 1 ENG
+https://stream.ayas.ir/hls2/bein1en.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2 ENG
+https://stream.ayas.ir/hls2/bein2en.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
