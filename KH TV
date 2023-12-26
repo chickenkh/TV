@@ -15,6 +15,7 @@ http://203.80.165.14/stream/channelid/41447817?profile=pass
 #https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="Khmer TV",TOWN TV
 http://203.80.165.14/stream/channelid/558436782?profile=pass
+#https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="Khmer TV",HANGMEAS
 http://203.80.165.14/stream/channelid/1448884111?profile=pass
 #http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
@@ -129,10 +130,6 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Sour
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/bmIVW", Bein Sports 1 ENG
-https://stream.ayas.ir/hls2/bein1en.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2 ENG
-https://stream.ayas.ir/hls2/bein2en.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
@@ -151,23 +148,3 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", group-title="LIVE MATCH", BALLTHAI 1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", group-title="LIVE MATCH", BALLTHAI 2
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", group-title="LIVE MATCH", BALLTHAI 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", group-title="LIVE MATCH", BALLTHAI 4
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", group-title="LIVE MATCH", BALLTHAI 5
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", group-title="LIVE MATCH", BALLTHAI 6
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", group-title="LIVE MATCH", BALLTHAI 7
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", group-title="LIVE MATCH", BALLTHAI 8
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_9.png", group-title="LIVE MATCH", BALLTHAI 9
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8
