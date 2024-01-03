@@ -28,7 +28,7 @@ https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #http://203.80.165.14/stream/channelid/391283113?profile=pass
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="CSTV" tvg-logo="https://shorturl.at/pEN09" group-title="Khmer TV",CSTV
-
+http://198.16.100.90:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="Khmer TV",CTN
 http://203.80.165.14/stream/channelid/536374439?profile=pass
 #EXTINF:-1 tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" tvg-name="MYTV" tvg-logo="http://cambodia.mom-gmr.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="Khmer TV",MYTV
