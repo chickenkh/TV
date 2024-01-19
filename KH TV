@@ -147,4 +147,7 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
+http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4358
+
 
