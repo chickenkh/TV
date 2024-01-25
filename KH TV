@@ -145,12 +145,10 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
 
-#EXTINF:-1 group-title="ASIAN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", 1
-http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4358
-#EXTINF:-1 group-title="ASIAN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", 2
-http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4362
-#EXTINF:-1 group-title="ASIAN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", 3
-http://ugeen.live:8080/Ugeen_VIPshZn4Z/es4kuS/4366
+#EXTINF:-1 tvg-id="vthanhsp1" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
+http://vthanhtivi.pw/vthanhsports1/mpegts
+#EXTINF:-1 tvg-id="vthanhsp2" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
+http://vthanhtivi.pw/vthanhsports2/mpegts
 
 
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
