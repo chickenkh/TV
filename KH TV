@@ -15,9 +15,8 @@ https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #http://203.80.165.14/stream/channelid/41447817?profile=pass
 
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="KHMER",TOWN TV
-https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/558436782?profile=pass
-
+http://203.80.165.14/stream/channelid/558436782?profile=pass
+#https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="KHMER",HANGMEAS
 http://203.80.165.14/stream/channelid/1448884111?profile=pass
 #http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
