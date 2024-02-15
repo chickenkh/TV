@@ -11,8 +11,8 @@ http://203.80.165.14/stream/channelid/909385263?profile=pass
 #EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://shorturl.at/bqSW4" group-title="KHMER",PPCTV1
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="KHMER",PNN
-https://edge1.laotv.la/live/PNN/sc-gaFECQ/v1_index.m3u8
-#http://203.80.165.14/stream/channelid/41447817?profile=pass
+http://203.80.165.14/stream/channelid/41447817?profile=pass
+#https://edge1.laotv.la/live/PNN/sc-gaFECQ/v1_index.m3u8
 #https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="KHMER",TOWN TV
@@ -66,8 +66,7 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/2f/ad/2f2fad4e-c2fd-9d62-a0b9-6c9c130fd63d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp" group-title="KHMER",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEA TV" tvg-logo="https://www.xhzb.tw/uploads/allimg/20/1-200H41301430-L.jpg" group-title="KHMER",TEA TV
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIKI TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/13/0f/f2130fe7-9e60-7efe-368c-5cf520643670/pr_source.png/750x750bb.jpeg" group-title="KHMER",WIKI TV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w1953578554.m3u8
 
