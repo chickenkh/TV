@@ -10,17 +10,15 @@ http://203.80.165.14/stream/channelid/1941077281?profile=pass
 http://203.80.165.14/stream/channelid/909385263?profile=pass
 #EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://shorturl.at/bqSW4" group-title="KHMER",PPCTV1
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://rb.gy/xmykv9", Thai Drama Speak Khmer
+http://203.80.165.14/stream/channelid/556998705?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="KHMER",PNN
-http://203.80.165.14/stream/channelid/41447817?profile=pass
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+#http://203.80.165.14/stream/channelid/41447817?profile=pass
 #https://edge1.laotv.la/live/PNN/sc-gaFECQ/v1_index.m3u8
-#https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="KHMER",TOWN TV
 http://203.80.165.14/stream/channelid/558436782?profile=pass
 #https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/esPT2" group-title="KHMER",HANGMEAS NOW
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="KHMER",HANGMEAS
 http://203.80.165.14/stream/channelid/1448884111?profile=pass
 #http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
@@ -151,6 +149,5 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
-#EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", W
-http://203.80.165.14/stream/channelid/556998705?profile=pass
+
 
