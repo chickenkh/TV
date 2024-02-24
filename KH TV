@@ -1,16 +1,16 @@
-#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="KHMER",AKCTV 26 Drama
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV 26 Drama
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="KHMER",AKCTV25
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV25
 http://203.80.165.14/stream/channelid/1721237608?profile=pass
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="KHMER",AKCTV_21
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV_21
 http://203.80.165.14/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="KHMER",AKCTV_23
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV_23
 http://203.80.165.14/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="https://shorturl.at/kozG1" group-title="KHMER",PPCTV10
+#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",PPCTV10
 http://203.80.165.14/stream/channelid/909385263?profile=pass
-#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://shorturl.at/bqSW4" group-title="KHMER",PPCTV1
+#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",PPCTV1
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://rb.gy/xmykv9", Thai Drama Speak Khmer
+#EXTINF:-1 group-title="KHMER" tvg-logo="https://rb.gy/xmykv9", Thai Drama Speak Khmer
 http://203.80.165.14/stream/channelid/556998705?profile=pass
 #EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="KHMER",PNN
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
@@ -58,10 +58,8 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png?20170310160903" group-title="KHMER",FRESH NEWS
 http://203.80.165.14/stream/channelid/86226499?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://yt3.googleusercontent.com/dSLy3O7Xn-qVae4fsBT3ghu--CJ97bZiCZcUkSeJxEvmYxlymxk5QVxfEG4ypwyZsjZqgSGZP9o=s900-c-k-c0x00ffffff-no-rj" group-title="KHMER",NETLINK TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://rb.gy/jbp3ov" group-title="KHMER",NETLINK TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KhmerTV_logo.jpg/1200px-KhmerTV_logo.jpg?20230114211006" group-title="KHMER",KHMER TV
-https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/2f/ad/2f2fad4e-c2fd-9d62-a0b9-6c9c130fd63d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp" group-title="KHMER",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
 
