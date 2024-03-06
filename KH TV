@@ -148,4 +148,10 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
+#EXTINF:-1 tvg-id="CTN" tvg-name="CTN" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
+http://103.25.92.30:10016/2.m3u8
+#EXTINF:-1 tvg-id="Mytv" tvg-name="Mytv" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Mytv
+http://103.25.92.30:10018/2.m3u8
+#EXTINF:-1 tvg-id="CNC" tvg-name="CNC" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/IH89nbY.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CNC
+http://103.25.92.30:10017/2.m3u8
 
