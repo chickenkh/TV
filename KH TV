@@ -57,7 +57,8 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0ac95f89237c60f738b5a5c90f2afac0" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="KHMER",TVK2
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png?20170310160903" group-title="KHMER",FRESH NEWS
-http://203.80.165.14/stream/channelid/86226499?profile=pass
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w237893753_b1496608.m3u8
+#http://203.80.165.14/stream/channelid/86226499?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://rb.gy/jbp3ov" group-title="KHMER",NETLINK TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/2f/ad/2f2fad4e-c2fd-9d62-a0b9-6c9c130fd63d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp" group-title="KHMER",MOI TV
