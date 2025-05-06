@@ -1,149 +1,223 @@
-#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV 26 Drama
-http://203.80.165.14/stream/channelid/1601899558?profile=pass
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV25
-http://203.80.165.14/stream/channelid/1721237608?profile=pass
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV_21
-http://203.80.165.14/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://imgur.com/oVX4aDo.jpg" group-title="KHMER",AKCTV_23
-http://203.80.165.14/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="https://rb.gy/3rw2ce" group-title="KHMER",PPCTV10
-http://203.80.165.14/stream/channelid/909385263?profile=pass
-#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="https://rb.gy/cdvd9q" group-title="KHMER",PPCTV9
-http://203.80.165.14/stream/channelid/2083789690?profile=pass
-#EXTINF:-1 group-title="KHMER" tvg-logo="https://rb.gy/xmykv9", Thai Drama Speak Khmer
-http://203.80.165.14/stream/channelid/556998705?profile=pass
-#EXTINF:-1 tvg-id="897178024fefdd1f0dfdecdd717d5ad6" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="KHMER",PNN
-#https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/41447817?profile=pass
-#https://edge1.laotv.la/live/PNN/sc-gaFECQ/v1_index.m3u8
-#EXTINF:-1 tvg-id="ae114921ba2cff6fdc1ced60bce5aab9" tvg-name="TOWN TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="KHMER",TOWN TV
-https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/558436782?profile=pass
-#EXTINF:-1 tvg-id="8f375cd6a1a73f479bbf5c3619d6888b" tvg-name="HANGMEAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="KHMER",HANGMEAS
-http://203.80.165.14/stream/channelid/1448884111?profile=pass
-#http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-id="63e69bb524e3b3a68d462066e092ddaa" tvg-name="RHM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040" group-title="KHMER",RHM
-http://203.80.165.14/stream/channelid/899409507?profile=pass
-#http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-id="d6fd577317dd23cc3e834491beebf63e" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="KHMER",BAYON
-https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="a981521794da75f1d18405de250041b5" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257" group-title="KHMER",BTV
-https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/391283113?profile=pass
-#EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="KHMER",CTN
-http://203.80.165.14/stream/channelid/536374439?profile=pass
-#EXTINF:-1 tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" tvg-name="MYTV" tvg-logo="http://cambodia.mom-gmr.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="KHMER",MYTV
-http://203.80.165.14/stream/channelid/1518243876?profile=pass
-#EXTINF:-1 tvg-id="c35f9c39291c14735ca5c2b58a1786b5" tvg-name="CNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CNC.jpg/revision/latest?cb=20191209090206" group-title="KHMER",CNC
-http://203.80.165.14/stream/channelid/966549443?profile=pass
-#EXTINF:-1 tvg-id="e926404a648d409acc36d475505f9f0e" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058" group-title="KHMER",CTV8
-http://203.80.165.14/stream/channelid/1245718249?profile=pass
-#EXTINF:-1 tvg-id="38305408b63df677bdd0566ade4e9999" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Apsara_TV11_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212084116" group-title="KHMER",APSARA
-https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="KHMER",MSJTV
-http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="1fede0449ebf7cb621327ce8936a907a" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="KHMER",SEATV
-https://live.kh.malimarcdn.com/live/seatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="902976b999a9acc3403fda7d1f66991a" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="KHMER",TV3
-http://203.80.165.14/stream/channelid/964045200?profile=pass
-#EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="KHMER",TV5
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="KHMER",TV9
-https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
-#http://203.80.165.14/stream/channelid/1883580941?profile=pass
-#https://live.kh.malimarcdn.com/khliveedge00/tv9.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="99add45d5b0a8bef1a465f18625db321" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="KHMER",TVK
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://pbs.twimg.com/profile_images/610271452558835713/9x-Zu9bt_400x400.jpg", CAM01
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://pbs.twimg.com/profile_images/610271452558835713/9x-Zu9bt_400x400.jpg", CAM02
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://pbs.twimg.com/profile_images/610271452558835713/9x-Zu9bt_400x400.jpg", CAM03
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://pbs.twimg.com/profile_images/610271452558835713/9x-Zu9bt_400x400.jpg", CAM04
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://shorturl.ac/7dc1e", PP3
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/PPCTV_drama_6.png/revision/latest?cb=20191210054250", PPCTV6
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.playboard.app/p/AMLnZu8qUhWu5HIvbwObKzdmWuy6RmeQLHE1uXajG6wa/default.jpg", PPCTV9
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PPCTV_drama_10.png/revision/latest?cb=20191210054249", PPCTV10
+
+#EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 KHMER",PP Digital TV
+http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg", D-Music
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://pbs.twimg.com/profile_images/610271452558835713/9x-Zu9bt_400x400.jpg", ចម្រៀង
+
+
+#EXTINF:-41 tvg-id="SHSHDTV.kh" tvg-name="SHSHDTV (720p)" tvg-logo="https://i.imgur.com/c3vwh9k.png" group-title="🇰🇭 KHMER",SHSHDTV
+
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/towntvkhmerHDF.jpg", TOWN
+http://202.79.26.142/LiveApp/streams/TownTVHD.m3u8
+
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/PNNTVHDF.jpg", PNN
+
+#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/25/13/1732517765914/828e496870ef_480_270.jpg" group-title="🇰🇭 KHMER",NTV
+
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.imgur.com/ObtFGBW.png", PSN
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/hangmeaskhmerHDF.jpg", ហង្សមាស
+http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1053296516_b1800000_sleng.m3u8
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/hangmeaskhmerHDF.jpg", រស្មីហង្សមាស
+http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w81330492_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 KHMER",Hang Meas NOW UHDTV (1080p)
+http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 KHMER",Hang Meas MELODY UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="🇰🇭 KHMER",Hang Meas PLAY UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunklist_w231709154_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="🇰🇭 KHMER",Hang Meas CINE UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_MALL_HDTV.kh" tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="🇰🇭 KHMER",Hang Meas MALL HDTV (1080p)
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="🇰🇭 KHMER",Hang Meas GO UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 KHMER",Hang Meas BOXING UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 KHMER",Hang Meas Boxing UHDTV (720p)
+
+#EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 KHMER",Hang Meas Kids UHDTV (720p)
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/CTV8HDF.jpg", CTV8
+http://43.252.18.195:5080/live/streams/ctv8.m3u8
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/CTNHDF.jpg", CTN
+http://43.252.18.195:5080/live/streams/ctntv.m3u8
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/CNCHDF.jpg", CNC
+http://43.252.18.195:5080/live/streams/cnctv.m3u8
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/khmer-mytv-standardHDF.jpg", MyTV
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUQTRNVGRHT1RVMU4wUXhRVFJHUkVRNU9URTJOVEV6TkRaQk5qY3dOakV4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913", បាយ័ន
+http://stream.mekongtv.net:8989/livebayontv/bayontvhd.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/btvHDF.jpg", BTV NEWS
+http://stream.mekongtv.net:8989/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/MSTJTVHDF.jpg", MSJTV
+http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/tvkHDF.jpg", ទទក
 https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="0ac95f89237c60f738b5a5c90f2afac0" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="KHMER",TVK2
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/TVK2HDF.jpg", ទទក២
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png?20170310160903" group-title="KHMER",FRESH NEWS
-http://203.80.165.14/stream/channelid/86226499?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://rb.gy/jbp3ov" group-title="KHMER",NETLINK TV
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOI TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/2f/ad/2f2fad4e-c2fd-9d62-a0b9-6c9c130fd63d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/434x0w.webp" group-title="KHMER",MOI TV
-http://202.62.56.22:8080/hls/MOITV.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIKI TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/13/0f/f2130fe7-9e60-7efe-368c-5cf520643670/pr_source.png/750x750bb.jpeg" group-title="KHMER",WIKI TV
-http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w1953578554.m3u8
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/FreshNewsHDF.jpg", Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/2023/APSARATVHDF.jpg", អប្សរា
+https://live.ams.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5
-http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="thairath.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=8",Thairath 
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/one.png?rev=8",ONE HD
-http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
-http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="THAI",NBT
-https://ctrl.laotv.la/live/NBT/index.m3u8
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png" group-title="THAI", CH8
-http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png" group-title="THAI", GMM25
-http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",T Sports7
-https://ctrl.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/seanewsHDF.jpg", SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super_Movies" tvg-logo="https://shorturl.at/gptx0" group-title="MOVIE",Super_Movies
-http://203.80.165.14/stream/channelid/2132911309?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 1" tvg-logo="https://shorturl.at/eCINP" group-title="MOVIE",True Film 1
-https://ctrl.laotv.la/live/TureFilm/index.m3u8
-#http://203.80.165.14/stream/channelid/795768875?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Film 2" tvg-logo="https://shorturl.at/eCINP" group-title="MOVIE",True Film 2
-http://203.80.165.14/stream/channelid/808364561?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies CN Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="MOVIE",Star Movies CN Sub
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/tv3HDF.jpg", TV3
 
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/2023/TV5HDF.jpg", TV5
+https://tr-netcdn.metfone.com.kh/netcdn-live-36/36/output/index.m3u8?manifestfilter=video_bitrate:1-4194304&uid=11990
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://i.malimarcdn.com/kh/2023/TV9HDTVHDF.jpg", TV9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8?manifestfilter=video_bitrate%3A1-4194304&uid=11990
+#https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
+
+#EXTINF:-45 tvg-id="KAAHDTV.kh" tvg-name="Khmer Artist HDTV (720p)" tvg-logo="https://i.imgur.com/NDZ8nUQ.png" group-title="🇰🇭 KHMER",Khmer Artist HDTV
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://kh.khmeronlinejobs.com/images/logo/ministry-of-interior.png", ក្រសួងមហាផ្ទៃ
+
+#EXTINF:-1 group-title="🇰🇭 KHMER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/200px-Emblem_of_MOI_%28Cambodia%29.svg.png", ក្រសួងពត័មាន
+
+#EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://i.imgur.com/ZZtpTrf.png" group-title="🇰🇭 KHMER",CCOC
+
+EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://i.imgur.com/i89XaeY.png" group-title="🇰🇭 KHMER",ABC Cambodia
+http://217.15.167.95:5080/live/streams/live_2.m3u8
+
+
+
+
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Lego_Kids.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Lego Kids
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Kidoodle_TV.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Kidoodle TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Spacetoon.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Rakunten_tv.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Rakunten tv
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="https://zoomoo-samsungau.amagi.tv/playlist.m3u8" tvg-name="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8?checkedby:iptvcat.com" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/889036014.png" group-title="🙉 គំនូរជីវចល_Cartoon", ZOO MOO
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/887787058.png" group-title="🙉 គំនូរជីវចល_Cartoon", MOONBUG KID
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://d1io3yog0oux5.cloudfront.net/kartoonstudios/files/pages/distribution/kartoon-channel/Kartoon_Channel_Primary_Logo_FINAL_300dpi_TM.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", KartoonChannel
+https://lnc-kartoon.tubi.video/kc_co.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/940109581.webp" group-title="🙉 គំនូរជីវចល_Cartoon", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/940109583.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/986320734.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", pocket.watch Kids TV
+https://pocketwatch-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY" group-title="🙉 គំនូរជីវចល_Cartoon", RAKUNTEN TV
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🙉 គំនូរជីវចល_Cartoon", Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="🙉 គំនូរជីវចល_Cartoon", Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 01
-https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8?ads.wurl_channel=606&ads.wurl_name=SuperToonsTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 02
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f70QOBXzPzc/maxresdefault.jpg" group-title="CARTOON", 03
-http://203.80.165.14/stream/channelid/457761692?profile=pass
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS" tvg-logo="https://tinyurl.com/ymkee3nd", Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://shorturl.at/vzHL0", Bloomberg TV
+#EXTINF:-1 tvg-id="cna" group-title="NEWS" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg", Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/bmIVW", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
 
 
 
-#EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
-https://ctrl.laotv.la/live/WWE/index.m3u8
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 01
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 02
+https://live.inplyr.com/room/400722.m3u8
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 03
+https://live.inplyr.com/room/250874.m3u8
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 04
+
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 05
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 06
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 07
+
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-logo="https://storage.googleapis.com/pod_public/1300/169545.jpg", 08
+
+
+
+
+
+
+
